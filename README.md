@@ -5,8 +5,9 @@ Some screens in design files are not generated perfectly, please refer to: https
 
 
 
+1.Bread Wallet 
 
-1. Breadwallet-ios is open source and available under the terms of the MIT license.
+    Breadwallet-ios is open source and available under the terms of the MIT license.
 
     Please use this file under the terms of of Breadwallet-ios’s license.
 
