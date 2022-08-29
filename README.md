@@ -5,7 +5,7 @@ Some screens in design files are not generated perfectly, please refer to: https
 
 
 
-1. Bread Wallet 
+1. Bread Wallet (Generated under iPhone SE simulator (iOS13.7) environment)
 
     Breadwallet-ios is open source and available under the terms of the MIT license.
 
@@ -14,5 +14,7 @@ Some screens in design files are not generated perfectly, please refer to: https
     Source code of Breadwallet-ios:  https://github.com/breadwallet/breadwallet-ios
 
     License of Breadwallet-ios:  https://github.com/breadwallet/breadwallet-ios/blob/master/LICENSE
+    
+    
 
   
