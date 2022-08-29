@@ -15,6 +15,11 @@ Some screens in design files are not generated perfectly, please refer to: https
 
     License of Breadwallet-ios:  https://github.com/breadwallet/breadwallet-ios/blob/master/LICENSE
     
+2. TLChat 高仿微信
+ 
+   Source code of TLChat: https://github.com/tbl00c/TLChat
+    
+   License of TLChat: https://github.com/tbl00c/TLChat/blob/master/LICENSE
     
 
   
