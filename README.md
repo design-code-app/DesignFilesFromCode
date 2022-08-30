@@ -4,7 +4,7 @@ Design files generated from open source apps by using [iOS2Sketch](https://www.i
 
 Some screens in design files are not generated perfectly, please refer to: https://www.ios2sketch.com/docs/limitations
 
-Please use these files under the terms of their licenses.
+Please use these files under the terms of their app's licenses.
 
 1. **Bread Wallet**
 
