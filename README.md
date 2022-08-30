@@ -1,14 +1,12 @@
 # Design Files From Code
 
-Design files generated from running App  by using [iOS2Sketch](https://www.ios2sketch.com)
+Design files generated from open source apps by using [iOS2Sketch](https://www.ios2sketch.com)
 
 Some screens in design files are not generated perfectly, please refer to: https://www.ios2sketch.com/docs/limitations
 
 Please use these files under the terms of their licenses.
 
-1. **Bread Wallet** (Generated under iPhone SE simulator (iOS13.7) environment)
-
-    Breadwallet-ios is open source and available under the terms of the MIT license.
+1. **Bread Wallet**
 
     Source code of Breadwallet-ios:  https://github.com/breadwallet/breadwallet-ios
 
